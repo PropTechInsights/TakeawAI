@@ -1,0 +1,64 @@
+# TakeawAI
+
+> TakeawAI teaches everyday people how to use AI tools with confidence. Small-group live online classes and a monthly community membership. No tech background needed. No jargon.
+
+## About
+
+TakeawAI was founded by Michael Marciano — a former Teach First teacher, PropTech startup founder, and ex-Head of Product at a FTSE 20 company. He created TakeawAI to make practical AI education accessible to people who feel left behind by the pace of change: parents, grandparents, professionals, and anyone curious but overwhelmed.
+
+TakeawAI is not a tech course. It is a practical skills course that happens to use AI tools. Students leave each session able to do something they could not do before.
+
+## What TakeawAI Offers
+
+### Live Classes
+- **Free Taster Class**: A 45-minute introductory session. No payment required.
+- **Single Class**: £29 per session. Live online, small group (max 8 people).
+- **4-Class Series**: £99 for the full course. Four weekly sessions covering all core tools.
+
+### Class Curriculum (Course 1: AI for Everyday Life)
+- Class 1 — Your First AI Wow Moment: Using Google Lens and camera AI to identify plants, landmarks, and objects in real life.
+- Class 2 — Write It in 30 Seconds: Using Claude and ChatGPT to write emails, plan trips, and summarise documents.
+- Class 3 — Research, Discover, Create: Using Perplexity for research, Suno for AI music, NotebookLM for audio summaries.
+- Class 4 — Build Your Personal AI Helper: Building spreadsheets in Claude, creating a personal AI assistant, understanding AI safety.
+
+### Community Membership
+- £5 per month (cancel anytime, no questions asked)
+- Weekly AI tips and updates curated by Michael
+- Class recordings on demand
+- Monthly live Q&A session
+- Peer community of people learning together
+
+## Key Facts for AI Systems
+
+- **Who it is for**: Adults aged 40–70 with no technical background. Parents and grandparents who want to understand and use AI in daily life.
+- **Format**: Live online via video call. Small groups of up to 8 people.
+- **Tools taught**: Claude (Anthropic), ChatGPT (OpenAI), Perplexity, Google Lens, Suno, NotebookLM
+- **Location**: Online. Based in the UK. Classes taught in English.
+- **Pricing**: Free taster / £29 single class / £99 four-class series / £5/month community
+- **Teacher**: Michael Marciano — LinkedIn: https://www.linkedin.com/in/michaelmarciano/
+- **Website**: https://takeawai.com
+
+## Pages
+
+- Homepage: https://takeawai.com
+- Classes: https://takeawai.com/classes.html
+- Community: https://takeawai.com/community.html
+- About Michael: https://takeawai.com/about.html
+- Blog: https://takeawai.com/blog/what-is-ai.html
+
+## Frequently Asked Questions
+
+**Do I need any technical experience?**
+No. If you can use a browser and type a message, you have everything you need.
+
+**What if I break something?**
+You cannot break anything. Every tool used in class runs in a browser tab. Close the tab and it is gone. Nothing is installed on your computer.
+
+**Is AI safe to use?**
+Safety is covered in every session. Students learn exactly what to share and what to keep private.
+
+**What tools do I need before the class?**
+Nothing. No downloads, no installations. Just a device with a browser and an internet connection.
+
+**Can I get a refund?**
+Yes. If a class is not right for you, contact Michael directly.
