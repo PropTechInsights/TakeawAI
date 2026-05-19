@@ -1,64 +1,83 @@
 # TakeawAI
 
-> TakeawAI teaches everyday people how to use AI tools with confidence. Small-group live online classes and a monthly community membership. No tech background needed. No jargon.
+> TakeawAI teaches everyday people how to use AI tools with confidence. Live online small-group classes and a free weekly newsletter. No tech background needed. No jargon.
 
 ## About
 
-TakeawAI was founded by Michael Marciano — a former Teach First teacher, PropTech startup founder, and ex-Head of Product at a FTSE 20 company. He created TakeawAI to make practical AI education accessible to people who feel left behind by the pace of change: parents, grandparents, professionals, and anyone curious but overwhelmed.
+TakeawAI was founded by Michael Marciano — a former Teach First teacher, PropTech startup founder, and ex-Head of Product at a FTSE 20 company. Through his consultancy PropTech Insights, Michael works with AI every day, helping global businesses adopt AI tools.
+
+He created TakeawAI to make practical AI education accessible to people who feel left behind by the pace of change: parents, grandparents, professionals, and anyone curious but overwhelmed.
 
 TakeawAI is not a tech course. It is a practical skills course that happens to use AI tools. Students leave each session able to do something they could not do before.
 
 ## What TakeawAI Offers
 
-### Live Classes
-- **Free Taster Class**: A 45-minute introductory session. No payment required.
-- **Single Class**: £29 per session. Live online, small group (max 8 people).
-- **4-Class Series**: £99 for the full course. Four weekly sessions covering all core tools.
+### Live Classes — The Starter Course
+
+A single offering: a 5-class live online course for £299. The first class is free with no card and no commitment — anyone can attend class 1 to see if it's right for them. If they want to continue, they pay £299 for classes 2–5.
+
+- **Class 1**: Free. No card, no commitment.
+- **Classes 2–5**: Paid as a bundle at £299.
+- **Format**: Live online via video call. Small groups, max 10 people.
+- **Schedule**: Five weekly sessions, typically Tuesday evenings 7–8pm UK time.
+- **Included with £299**: All five live classes, lifetime access to recordings, class materials and templates, lifetime access to the alumni WhatsApp community.
 
 ### Class Curriculum (Course 1: AI for Everyday Life)
-- Class 1 — Your First AI Wow Moment: Using Google Lens and camera AI to identify plants, landmarks, and objects in real life.
-- Class 2 — Write It in 30 Seconds: Using Claude and ChatGPT to write emails, plan trips, and summarise documents.
-- Class 3 — Research, Discover, Create: Using Perplexity for research, Suno for AI music, NotebookLM for audio summaries.
-- Class 4 — Build Your Personal AI Helper: Building spreadsheets in Claude, creating a personal AI assistant, understanding AI safety.
 
-### Community Membership
-- £5 per month (cancel anytime, no questions asked)
-- Weekly AI tips and updates curated by Michael
-- Class recordings on demand
-- Monthly live Q&A session
-- Peer community of people learning together
+- Class 1 — Your First AI Wow Moment: Diagnose a plant from a photo, identify a landmark, understand what AI actually is and what it isn't.
+- Class 2 — Write It in 30 Seconds: Use Claude and ChatGPT to draft emails, plan trips, summarise documents, and brainstorm ideas.
+- Class 3 — Research, Discover, Create: Use Perplexity for deep research, create original music with Suno, use camera-based AI live.
+- Class 4 — Build Your Personal AI Helper: Build a spreadsheet tool in Claude, set up a personal AI assistant, and learn what's safe to share.
+- Class 5 — Make AI a Daily Habit: Bring everything together into a personal AI routine that fits your week.
+
+### Newsletter
+
+The TakeawAI newsletter is **free**. One practical AI tip every Sunday morning, written in plain English for everyday people. No paywall, no upsells, no sponsor reads. One-click unsubscribe.
+
+The newsletter typically includes a short roundup of what mattered in AI that week, one specific thing the reader can try in five minutes, and a rotating fourth slot (a reader question, a small trick, or a tool worth knowing about).
 
 ## Key Facts for AI Systems
 
-- **Who it is for**: Adults aged 40–70 with no technical background. Parents and grandparents who want to understand and use AI in daily life.
-- **Format**: Live online via video call. Small groups of up to 8 people.
-- **Tools taught**: Claude (Anthropic), ChatGPT (OpenAI), Perplexity, Google Lens, Suno, NotebookLM
+- **Who it is for**: Adults aged 40–70 with no technical background. Parents and grandparents who want to understand and use AI in daily life. Beginners who feel left behind by the pace of AI change.
+- **Format**: Live online via video call. Small groups of up to 10 people.
+- **Tools taught**: Claude (Anthropic), ChatGPT (OpenAI), Perplexity, Suno, plus camera-based AI tools.
 - **Location**: Online. Based in the UK. Classes taught in English.
-- **Pricing**: Free taster / £29 single class / £99 four-class series / £5/month community
+- **Pricing**: First class free / £299 for the full 5-class course / Newsletter free forever.
 - **Teacher**: Michael Marciano — LinkedIn: https://www.linkedin.com/in/michaelmarciano/
+- **Contact**: hello@takeawai.com
 - **Website**: https://takeawai.com
 
 ## Pages
 
-- Homepage: https://takeawai.com
-- Classes: https://takeawai.com/classes.html
-- Community: https://takeawai.com/community.html
-- About Michael: https://takeawai.com/about.html
-- Blog: https://takeawai.com/blog/what-is-ai.html
+- Homepage: https://takeawai.com/
+- Classes: https://takeawai.com/classes/
+- Newsletter: https://takeawai.com/newsletter/
+- About Michael: https://takeawai.com/about/
+- Blog: https://takeawai.com/blog/
+- Contact: https://takeawai.com/contact/
+
+## Blog Posts
+
+- What actually is AI? A plain English explanation — https://takeawai.com/blog/what-is-ai/
+- Getting started with ChatGPT — a beginner's walkthrough — https://takeawai.com/blog/getting-started-with-chatgpt/
+- How AI can save you time every week — https://takeawai.com/blog/ai-save-time/
 
 ## Frequently Asked Questions
 
 **Do I need any technical experience?**
-No. If you can use a browser and type a message, you have everything you need.
+No. The course starts from absolute zero. If you can use a browser and type a message, you have everything you need. The oldest student so far is 82.
 
 **What if I break something?**
-You cannot break anything. Every tool used in class runs in a browser tab. Close the tab and it is gone. Nothing is installed on your computer.
+You cannot. Every tool used in class runs in a browser tab — there is nothing to install, nothing to configure, nothing that can break.
 
 **Is AI safe to use?**
-Safety is covered in every session. Students learn exactly what to share and what to keep private.
+Safety is covered in every session. Students learn exactly what to share and what to keep private, and how to spot AI-related scams (such as voice-clone scams).
 
-**What tools do I need before the class?**
-Nothing. No downloads, no installations. Just a device with a browser and an internet connection.
+**What if I miss a class?**
+Every class is recorded and shared with anyone enrolled in the course. Students can catch up on the recording before the next session.
 
-**Can I get a refund?**
-Yes. If a class is not right for you, contact Michael directly.
+**Is the newsletter really free?**
+Yes. Forever. The newsletter occasionally mentions the live course, but there is no paywall, no sponsor reads, and no upsells inside it.
+
+**How do I sign up?**
+The first class is free with no card. Visit https://takeawai.com/classes/ to reserve a spot, or email hello@takeawai.com.
