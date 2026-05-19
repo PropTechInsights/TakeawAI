@@ -1385,3 +1385,109 @@ img { max-width: 100%; height: auto; display: block; }
   opacity: 1;
   margin-right: 10px;
 }
+
+/* ---------- Hero two-column with floating preview cards ---------- */
+.hero-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+  align-items: center;
+}
+
+@media (min-width: 901px) {
+  .hero-grid {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 60px;
+  }
+}
+
+.hero-visual {
+  position: relative;
+  min-height: 420px;
+  display: none;
+}
+
+@media (min-width: 901px) {
+  .hero-visual {
+    display: block;
+  }
+}
+
+.hero-card {
+  position: absolute;
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 18px 22px;
+  box-shadow: 0 14px 36px rgba(10, 22, 40, 0.12);
+  max-width: 290px;
+  border-left: 4px solid var(--teal);
+  z-index: 2;
+}
+
+.hero-card-prompt {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+  color: var(--navy);
+  font-size: 1rem;
+  margin-bottom: 8px;
+}
+
+.hero-card-prompt i {
+  color: var(--teal);
+  margin-right: 8px;
+}
+
+.hero-card-reply {
+  font-size: 0.95rem;
+  color: var(--gray-700);
+  line-height: 1.55;
+}
+
+.hero-card-1 {
+  top: 0;
+  left: 8%;
+  border-left-color: var(--teal);
+  transform: rotate(-3deg);
+  animation: hero-float-1 6s ease-in-out infinite;
+}
+
+.hero-card-1 .hero-card-prompt i { color: var(--teal); }
+
+.hero-card-2 {
+  top: 38%;
+  right: 0;
+  border-left-color: var(--coral);
+  transform: rotate(2deg);
+  animation: hero-float-2 7.5s ease-in-out infinite;
+}
+
+.hero-card-2 .hero-card-prompt i { color: var(--coral); }
+
+.hero-card-3 {
+  bottom: 0;
+  left: 4%;
+  border-left-color: var(--yellow);
+  transform: rotate(-2deg);
+  animation: hero-float-3 8.5s ease-in-out infinite;
+}
+
+.hero-card-3 .hero-card-prompt i { color: var(--yellow); }
+
+@keyframes hero-float-1 {
+  0%, 100% { transform: translateY(0) rotate(-3deg); }
+  50%      { transform: translateY(-14px) rotate(-3deg); }
+}
+
+@keyframes hero-float-2 {
+  0%, 100% { transform: translateY(0) rotate(2deg); }
+  50%      { transform: translateY(-12px) rotate(2deg); }
+}
+
+@keyframes hero-float-3 {
+  0%, 100% { transform: translateY(0) rotate(-2deg); }
+  50%      { transform: translateY(-10px) rotate(-2deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-card { animation: none !important; }
+}
